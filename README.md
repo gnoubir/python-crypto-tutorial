@@ -4,9 +4,9 @@
 Tutorial on how to use different crypto libraries in Python for
   [Network Security](http://www.ccs.neu.edu/home/amirali/teaching/Summer16/).
 
-  **Instructor**: [Amirali Sanatinia](http://www.ccs.neu.edu/home/amirali)
+  **Instructors**: [Guevara Noubir](http://www.ccs.neu.edu/home/noubir), [Amirali Sanatinia](http://www.ccs.neu.edu/home/amirali)
 
-  **Email**: amirali@ccs.neu.edu
+  **Email**: noubir@ccs.neu.edu, amirali@ccs.neu.edu
 
 
 ## Requirements
